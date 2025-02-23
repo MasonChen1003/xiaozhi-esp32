@@ -1,3 +1,9 @@
+#項目增加控制 ESP32 gpio 的紅綠燈模組 
+- 腳位依 ESP-Gyro 擴充板來做適當的調整
+- 由按鈕 IO-15 來喚醒 ESP32 麥克風
+- 主要開發板用的是 ESP32 (非 C3 或 S3) 
+
+
 # 小智 AI 聊天机器人 （XiaoZhi AI Chatbot）
 
 （中文 | [English](README_en.md) | [日本語](README_ja.md)）
