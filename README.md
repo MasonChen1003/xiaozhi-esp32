@@ -3,7 +3,7 @@
 - 由按鈕 IO-15 來喚醒 ESP32 麥克風
 - 主要開發板用的是 ESP32 (非 C3 或 S3)
 - ESP32 腳位接線表
-<img src="esp32_小智ai_腳位圖_v2.jpg" width="480" />
+<img src="esp32_小智ai_腳位圖_v2.jpg" width="360" />
 
 
 # 小智 AI 聊天机器人 （XiaoZhi AI Chatbot）
